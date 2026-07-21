@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="public/favicon.svg" />
+<img width="1200" height="475" alt="GHBanner" src="https://raw.githubusercontent.com/ninaweaniket6-design/AniketNinawe.org/main/public/favicon.svg" />
 </div>
 
 # Run and deploy your AI Studio app
